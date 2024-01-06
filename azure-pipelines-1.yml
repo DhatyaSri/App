@@ -8,8 +8,6 @@ trigger:
 
 pool:
   vmImage: ubuntu-latest
-
-
 - task: AzureFunctionApp@2
   inputs:
     connectedServiceNameARM: 'Pay-As-You-Go(2daf202c-149e-49a5-b14d-6b4cf65f409f)'
