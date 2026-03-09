@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/v-bollams/21aeb9e9-2a42-4199-b34c-4764168c7831/1bfd206a-c163-4fd5-9a87-d8de416ed2de/_apis/work/boardbadge/325bebab-bac9-40f9-9dcd-2e25dc08a805)](https://dev.azure.com/v-bollams/21aeb9e9-2a42-4199-b34c-4764168c7831/_boards/board/t/1bfd206a-c163-4fd5-9a87-d8de416ed2de/Microsoft.RequirementCategory)
 # Azure Functions - Python V2 loading issue
 There is an issue with Azure Functions when using Ptyhon V2 model, that is extremely hard to debug. Depending on where you are in your search, it might present itself as:
 - The FunctionApp is successfully deployed, but the Function itself doesn't show up in the Portal, or
